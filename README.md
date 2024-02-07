@@ -10,3 +10,9 @@ We adeptly employed a second-order polynomial approximation to approximate tanh(
 In Stage 1, we achieved a precision of 4 with a max_distance of approximately 0.07170, utilizing only 25 qubits. Progressing to Stage 2, we elevated the precision to 7 while achieving a circuit depth of 2260.
 
 For a more in-depth exploration of the challenge, kindly refer to the document titled "Classiq’s Generalized Arithmetic Challenge.pdf."
+
+## Team Members
+[Aniekan Afangideh](https://github.com/henryafangideh)
+[Fredrick Gbolade](https://github.com/AnathemA39)
+[Petro Chynnyk](https://github.com/ChynnykP)
+[Razeen Ud Din](https://github.com/Razeen-ud-din)
