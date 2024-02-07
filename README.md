@@ -12,7 +12,7 @@ In Stage 1, we achieved a precision of 4 with a max_distance of approximately 0.
 For a more in-depth exploration of the challenge, kindly refer to the document titled "Classiq’s Generalized Arithmetic Challenge.pdf."
 
 ## Team Members
-[Aniekan Afangideh](https://github.com/henryafangideh)
-[Fredrick Gbolade](https://github.com/AnathemA39)
-[Petro Chynnyk](https://github.com/ChynnykP)
+[Aniekan Afangideh](https://github.com/henryafangideh) \
+[Fredrick Gbolade](https://github.com/AnathemA39) \
+[Petro Chynnyk](https://github.com/ChynnykP) \
 [Razeen Ud Din](https://github.com/Razeen-ud-din)
